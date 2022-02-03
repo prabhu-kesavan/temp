@@ -12,3 +12,7 @@ if deci == 'yes':
     
 else:
     print('Try to create one !!!!. ')
+    deci1 = input('Do you want to create a new one?:')
+    if deci1 == 'yes':
+        print('Its good that you want to create a new one!!!')
+        
